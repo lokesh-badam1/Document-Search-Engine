@@ -55,4 +55,4 @@ The project relies on the following Python libraries:
 
 
 
-Happy Searching! 🚀
+Happy Searching! 🔎
